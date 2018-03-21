@@ -32,4 +32,6 @@ public class EmpWeb {
 		empservice.todelete(check);
 		return "redirect:login";
 	}
+	
+	
 }
