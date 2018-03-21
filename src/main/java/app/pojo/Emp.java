@@ -6,7 +6,7 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
-@Entity  //zhangshan
+@Entity  //zhangshanyestryguihokp[l]pkjgyuirsarQ3RASYRTFGUHI
 public class Emp {
 
 	@Id
